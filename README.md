@@ -76,6 +76,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/viz-zie/viz-zie/output/snake.svg" alt="Snake animation" />
+
 
 ###

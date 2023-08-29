@@ -1,10 +1,34 @@
 <br clear="both">
 
-<h3 align="center">Hey, this is Vishranth</h3>
-<hr>
+<h1 align="center">Hi 👋, I'm Vishranth Karthikheyan</h1>
+<h3 align="center">Fullstack Developer <3</h3>
+
 <p>I am a B Tech student majoring in Computer Science Engineering with a specialization in Cyber Physical Systems at Vellore Institute of Technology, Chennai. I have a passion for the latest technologies and advancements in computer science, which has been strengthened by my solid background in the field. Through my academic pursuits, I have developed a deep understanding of programming languages, data structures, algorithms, and software development. I am committed to excellence in both my academic and professional endeavors and am excited to contribute to the growth of the industry.</p>
 
 ###
+
+
+
+<p align="left"> <a href="https://twitter.com/vizzie34" target="blank"><img src="https://img.shields.io/twitter/follow/vizzie34?logo=twitter&style=for-the-badge" alt="vizzie34" /></a> </p>
+
+- 🌱 I’m currently learning **Machine Learning and Data Analysis**
+
+- 👨‍💻 All of my projects are available at [https://viz-zie.github.io/MyPortfolio/](https://viz-zie.github.io/MyPortfolio/)
+
+- 💬 Ask me about **frontend**
+
+- 📫 How to reach me **thisisvishkarthik@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Lk2A63VAzFQNJjh6cBRB6Ib6gaT9V77M/view?usp=sharing](https://drive.google.com/file/d/1Lk2A63VAzFQNJjh6cBRB6Ib6gaT9V77M/view?usp=sharing)
+
+- ⚡ Fun fact **I am Batman !**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vizzie34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vizzie34" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishranth karthikheyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishranth karthikheyan" height="30" width="40" /></a>
+<a href="https://instagram.com/vishranth__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishranth__" height="30" width="40" /></a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viz-zie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -13,6 +37,7 @@
 
 ###
 
+<h3>Technical Skills : </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
@@ -68,14 +93,7 @@
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/vishranth-karthikheyan-5b63b0227" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="thisisvishkarthik@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+
 
 ###
 

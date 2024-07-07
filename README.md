@@ -1,5 +1,4 @@
 <br clear="both">
-<img align="center"  src="https://media.licdn.com/dms/image/D5616AQEnaD3ufkXeyA/profile-displaybackgroundimage-shrink_350_1400/0/1697298429353?e=1703116800&v=beta&t=dkR6DZcQkXr4-bsjd_mZ0C5f03xove1POf8ls3XrazA">
 <h1 align="center">Hi 👋, I'm Vishranth Karthikheyan</h1>
 <h3 align="center">Fullstack Developer <3</h3>
 

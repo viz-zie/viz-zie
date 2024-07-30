@@ -1,6 +1,6 @@
 <br clear="both">
 <h1 align="center">Hi 👋, I'm Vishranth Karthikheyan</h1>
-<h3 align="center">Fullstack Developer <3</h3>
+<h3 align="center">Frontend Developer <3</h3>
 
 <p>I am a B Tech student majoring in Computer Science Engineering with a specialization in Cyber Physical Systems at Vellore Institute of Technology, Chennai. I have a passion for the latest technologies and advancements in computer science, which has been strengthened by my solid background in the field. Through my academic pursuits, I have developed a deep understanding of programming languages, data structures, algorithms, and software development. I am committed to excellence in both my academic and professional endeavors and am excited to contribute to the growth of the industry.</p>
 

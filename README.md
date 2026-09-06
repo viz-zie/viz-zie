@@ -1,5 +1,20 @@
 <br clear="both">
 
+<div align="center">
+
+<h3><code>viz-zie@github ~ $ whoami</code></h3>
+
+<img src="./wordmark.svg" width="490" alt="VK — 3D ASCII wordmark" />
+
+<br>
+<br>
+
+<h3><code>viz-zie@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="700" alt="Vishranth's GitHub contribution graph — auto-refreshed daily" />
+
+</div>
+
 <h1 align="center">Hi 👋, I'm Vishranth Karthikheyan</h1>
 <h3 align="center">Cybersecurity Enthusiast | Security Analyst Aspirant</h3>
 

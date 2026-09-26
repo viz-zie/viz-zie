@@ -2,9 +2,9 @@
 
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/light.svg">
-  <img alt="Vishranth MSK — Cybersecurity Consultant" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Vishranth MSK — Cybersecurity Consultant" src="light.svg">
 </picture>
 
 <!-- ===== ABOUT ===== -->

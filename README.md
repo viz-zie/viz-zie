@@ -48,7 +48,7 @@
 
 <!-- ===== PROJECTS ===== -->
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/projects.svg" alt="Projects: Qualys Virtual Agent Chatbot, Scan Inventory Reconciliation, Recon Automation Tool, Keylogger – Mail Integration" />
+<img width="100%" src="projects.svg" alt="Projects: Qualys Virtual Agent Chatbot, Scan Inventory Reconciliation, Recon Automation Tool, Keylogger – Mail Integration" />
 </div>
 
 <!-- ===== CERTIFICATIONS ===== -->

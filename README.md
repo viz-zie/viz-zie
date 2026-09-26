@@ -49,7 +49,11 @@
 
 <!-- ===== PROJECTS ===== -->
 <div align="center">
-<img width="100%" src="projects.svg" alt="Projects: Qualys Virtual Agent Chatbot, Scan Inventory Reconciliation, Recon Automation Tool, Keylogger – Mail Integration" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="projects-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="projects-light.svg" />
+  <img width="100%" src="projects-light.svg" alt="Projects: Qualys Virtual Agent Chatbot, Scan Inventory Reconciliation, Recon Automation Tool, Keylogger – Mail Integration" />
+</picture>
 </div>
 
 <!-- ===== CERTIFICATIONS ===== -->

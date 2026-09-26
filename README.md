@@ -7,17 +7,7 @@
   <img alt="Vishranth MSK — Cybersecurity Consultant" src="light.svg">
 </picture>
 
-<!-- ===== ABOUT ===== -->
-```yaml
-name:        Vishranth MSK
-role:        Cybersecurity Consultant @ LTM, Chennai
-focus:       [Vulnerability Management, Qualys VMDR, Security Automation, CIS Benchmarks, ISO 27001]
-automating:  [Power Automate, Power Virtual Agents, Qualys API, ServiceNow]
-offensive:   [Web App Pentesting, OWASP Top 10, Burp Suite, Nmap, Metasploit]
-cloud:       [AWS, Kubernetes, Docker, Qualys Container Security]
-education:   B.Tech CSE (Cyber Physical Systems), VIT Chennai — CGPA 8.61
-research:    "Transformer-Based Models for Bail Prediction" — IEEE TENCON 2025, Best Paper 🏆
-```
+
 
 <!-- ===== GITHUB STATS ===== -->
 <div align="center">
